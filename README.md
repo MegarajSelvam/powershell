@@ -1,2 +1,2 @@
 # powershell
-Collection of powershell script s for future use
+Collection of powershell scripts for future use
